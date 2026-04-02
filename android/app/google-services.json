@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406075790674",
+    "project_id": "brandr-67309",
+    "storage_bucket": "brandr-67309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406075790674:android:0cb3322560a6a3a05a568b",
+        "android_client_info": {
+          "package_name": "com.example.brandr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfcSWW8ACLrZVjfuwjtjAxZlnQ4hLF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
