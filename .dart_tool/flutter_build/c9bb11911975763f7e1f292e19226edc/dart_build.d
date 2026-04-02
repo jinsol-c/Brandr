@@ -1,0 +1,1 @@
+ /Users/janicemac/hello_app/01.\ Brandr/brandr/.dart_tool/flutter_build/c9bb11911975763f7e1f292e19226edc/dart_build_result.json:  /Users/janicemac/development/flutter/bin/cache/dart-sdk/version /Users/janicemac/hello_app/01.\ Brandr/brandr/.dart_tool/package_config.json /Users/janicemac/hello_app/01.\ Brandr/brandr/pubspec.yaml
